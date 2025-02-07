@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-02-07 01:43:05
- * GFWList Last-Modified: 2025-01-25 16:16:19
+ * Generated: 2025-02-07 12:40:54
+ * GFWList Last-Modified: 2025-02-07 04:07:23
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -392,6 +392,7 @@ var rules = [
             "ameblo.jp",
             "americangreencard.com",
             "americanunfinished.com",
+            "americorps.gov",
             "amiblockedornot.com",
             "amigobbs.net",
             "amitabhafoundation.us",
@@ -971,6 +972,7 @@ var rules = [
             "cccat.cc",
             "cccat.co",
             "ccdtr.org",
+            "ccfd.org.tw",
             "cchere.com",
             "ccim.org",
             "cclife.ca",
@@ -2220,7 +2222,6 @@ var rules = [
             "goagent.biz",
             "goagent.codeplex.com",
             "goagentplus.com",
-            "gobet.cc",
             "godaddy.com",
             "godfootsteps.org",
             "godns.work",
@@ -2512,6 +2513,7 @@ var rules = [
             "graphis.ne.jp",
             "graphql.org",
             "gravatar.com",
+            "greasyfork.org",
             "great-firewall.com",
             "great-roc.org",
             "greatfire.org",
@@ -2981,6 +2983,7 @@ var rules = [
             "iownyour.biz",
             "iownyour.org",
             "ipalter.com",
+            "ipdefenseforum.com",
             "ipfire.org",
             "ipfs.io",
             "iphone4hongkong.com",
@@ -3893,6 +3896,7 @@ var rules = [
             "nobel.se",
             "nobelprize.org",
             "nobodycanstop.us",
+            "nodeseek.com",
             "nofile.io",
             "nokogiri.org",
             "nokola.com",
@@ -3916,7 +3920,6 @@ var rules = [
             "npa.gov.tw",
             "npm.gov.tw",
             "npnt.me",
-            "nps.gov",
             "npsboost.com",
             "nradio.me",
             "nrk.no",
@@ -4103,6 +4106,7 @@ var rules = [
             "pachosting.com",
             "pacificpoker.com",
             "packetix.net",
+            "pacom.mil",
             "pacopacomama.com",
             "padmanet.com",
             "page.bid.yahoo.com",
@@ -5657,7 +5661,6 @@ var rules = [
             "users.skynet.be",
             "usfk.mil",
             "ushuarencity.echainhost.com",
-            "usinfo.state.gov",
             "usma.edu",
             "usmc.mil",
             "usmgtcg.ning.com",
@@ -6056,7 +6059,6 @@ var rules = [
             "wwitv.com",
             "www.abclite.net",
             "www.ajsands.com",
-            "www.americorps.gov",
             "www.antd.org",
             "www.aolnews.com",
             "www.businessinsider.com.au",
