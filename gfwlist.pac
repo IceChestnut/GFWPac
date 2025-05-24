@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-05-24 01:55:06
- * GFWList Last-Modified: 2025-05-20 11:14:44
+ * Generated: 2025-05-24 12:44:45
+ * GFWList Last-Modified: 2025-05-24 02:43:20
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -4036,7 +4036,6 @@ var rules = [
             "nobel.se",
             "nobelprize.org",
             "nobodycanstop.us",
-            "nodeloc.com",
             "nodeseek.com",
             "nofile.io",
             "nokogiri.org",
@@ -4639,6 +4638,7 @@ var rules = [
             "redchinacn.org",
             "redd.it",
             "reddit.com",
+            "reddithelp.com",
             "redditlist.com",
             "redditmedia.com",
             "redditspace.com",
@@ -6296,6 +6296,7 @@ var rules = [
             "www.moztw.org",
             "www.msn.com",
             "www.nbc.com",
+            "www.nodeloc.com",
             "www.orchidbbs.com",
             "www.owind.com",
             "www.oxid.it",
