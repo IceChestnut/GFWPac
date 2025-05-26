@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-05-26 02:03:26
- * GFWList Last-Modified: 2025-05-24 02:43:20
+ * Generated: 2025-05-26 12:49:26
+ * GFWList Last-Modified: 2025-05-26 12:04:31
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2221,6 +2221,7 @@ var rules = [
             "geekheart.info",
             "gekikame.com",
             "gelbooru.com",
+            "gemini.google",
             "generated.photos",
             "genius.com",
             "geocities.co.jp",
