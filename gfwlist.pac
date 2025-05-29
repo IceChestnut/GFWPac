@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-05-29 02:00:29
- * GFWList Last-Modified: 2025-05-27 11:32:32
+ * Generated: 2025-05-29 12:50:33
+ * GFWList Last-Modified: 2025-05-29 11:02:04
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -4717,9 +4717,15 @@ var rules = [
             "s1heng.com",
             "s1s1s1.com",
             "s3-ap-*.amazonaws.com",
+            "s3-ap-northeast-1.amazonaws.com",
+            "s3-ap-northeast-2.amazonaws.com",
             "s3-ap-southeast-1.amazonaws.com",
             "s3-ap-southeast-2.amazonaws.com",
+            "s3-eu-central-1.amazonaws.com",
             "s3.amazonaws.com",
+            "s3.ap-northeast-2.amazonaws.com",
+            "s3.eu-central-1.amazonaws.com",
+            "s3.us-east-1.amazonaws.com",
             "s8forum.com",
             "sa.hao123.com",
             "sacks.com",
