@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-06-17 12:53:09
- * GFWList Last-Modified: 2025-06-17 09:20:42
+ * Generated: 2025-06-18 02:02:57
+ * GFWList Last-Modified: 2025-06-17 13:43:35
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1481,6 +1481,7 @@ var rules = [
             "dw-world.de",
             "dw.com",
             "dw.de",
+            "dweb.link",
             "dwnews.com",
             "dwnews.net",
             "dynamic-dns.net",
@@ -2769,6 +2770,7 @@ var rules = [
             "iownyour.org",
             "ipdefenseforum.com",
             "ipfire.org",
+            "ipfs.4everland.io",
             "ipfs.io",
             "iphone4hongkong.com",
             "iphonetaiwan.org",
@@ -3595,6 +3597,7 @@ var rules = [
             "nflximg.net",
             "nflxso.net",
             "nflxvideo.net",
+            "nftstorage.link",
             "nga.mil",
             "ngensis.com",
             "nhentai.net",
@@ -4627,6 +4630,7 @@ var rules = [
             "storj.io",
             "storm.mg",
             "stormmediagroup.com",
+            "storry.tv",
             "stoweboyd.com",
             "straitstimes.com",
             "stranabg.com",
@@ -5447,6 +5451,7 @@ var rules = [
             "vultryhw.com",
             "w-pool.com",
             "w.idaiwan.com",
+            "w3s.link",
             "waffle1999.com",
             "wahas.com",
             "waikeung.org",
