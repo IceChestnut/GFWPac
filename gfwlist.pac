@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-07-03 12:51:04
- * GFWList Last-Modified: 2025-06-28 11:01:38
+ * Generated: 2025-07-04 02:03:54
+ * GFWList Last-Modified: 2025-07-03 13:23:19
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1428,6 +1428,7 @@ var rules = [
             "dongtaiwang.net",
             "dongyangjing.com",
             "dontfilter.us",
+            "doom9.org",
             "doosho.com",
             "doourbest.org",
             "dorjeshugden.com",
