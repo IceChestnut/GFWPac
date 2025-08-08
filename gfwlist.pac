@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-08-08 02:21:33
- * GFWList Last-Modified: 2025-08-03 13:23:14
+ * Generated: 2025-08-08 12:57:17
+ * GFWList Last-Modified: 2025-08-08 07:46:07
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1124,6 +1124,7 @@ var rules = [
             "clipfish.de",
             "cloud.dify.ai",
             "cloud.mail.ru",
+            "cloudflare-dns.com",
             "cloudflare-ipfs.com",
             "cloudfunctions.net",
             "club1069.com",
@@ -5679,7 +5680,6 @@ var rules = [
             "www.moztw.org",
             "www.msn.com",
             "www.nbc.com",
-            "www.nodeloc.com",
             "www.owind.com",
             "www.oxid.it",
             "www.powerpointninja.com",
