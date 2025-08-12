@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-08-12 02:03:05
- * GFWList Last-Modified: 2025-08-09 08:32:32
+ * Generated: 2025-08-12 12:53:46
+ * GFWList Last-Modified: 2025-08-12 03:15:07
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -675,6 +675,7 @@ var rules = [
             "biliworld.com",
             "billypan.com",
             "binance.com",
+            "binance.org",
             "binancezh.cc",
             "binux.me",
             "bird.so",
@@ -2751,6 +2752,7 @@ var rules = [
             "indiemerch.com",
             "inews-api.tvb.com",
             "info-graf.fr",
+            "infura.io",
             "inherit.live",
             "initiativesforchina.org",
             "inkbunny.net",
@@ -3175,6 +3177,7 @@ var rules = [
             "lsxszzg.com",
             "ltn.com.tw",
             "luckydesigner.space",
+            "luckymobile.ca",
             "ludepress.com",
             "luke54.com",
             "luke54.org",
@@ -3297,6 +3300,7 @@ var rules = [
             "messenger.com",
             "meta.com",
             "metafilter.com",
+            "metamask.io",
             "metart.com",
             "metarthunter.com",
             "meteorshowersonline.com",
