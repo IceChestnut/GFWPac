@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-08-16 02:00:10
- * GFWList Last-Modified: 2025-08-15 06:59:44
+ * Generated: 2025-08-16 12:49:11
+ * GFWList Last-Modified: 2025-08-16 07:55:26
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3850,6 +3850,7 @@ var rules = [
             "paljorpublications.com",
             "paltalk.com",
             "panamapapers.sueddeutsche.de",
+            "pancakeswap.finance",
             "pandafan.pub",
             "pandapow.co",
             "pandapow.net",
@@ -3916,6 +3917,7 @@ var rules = [
             "perplexity.ai",
             "persecutionblog.com",
             "persiankitty.com",
+            "pewresearch.org",
             "phapluan.org",
             "phayul.com",
             "philborges.com",
@@ -4045,6 +4047,7 @@ var rules = [
             "prisoneralert.com",
             "pritunl.com",
             "privacybox.de",
+            "privacyguides.org",
             "private.com",
             "privateinternetaccess.com",
             "privatepaste.com",
