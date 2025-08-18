@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-08-18 02:18:28
- * GFWList Last-Modified: 2025-08-16 07:55:26
+ * Generated: 2025-08-18 12:55:37
+ * GFWList Last-Modified: 2025-08-18 10:22:48
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3526,6 +3526,7 @@ var rules = [
             "nationsonline.org",
             "nationwide.com",
             "naughtyamerica.com",
+            "naver.com",
             "navyfamily.navy.mil",
             "navyreserve.navy.mil",
             "naweeklytimes.com",
