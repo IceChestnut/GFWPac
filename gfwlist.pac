@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-08-18 12:55:37
- * GFWList Last-Modified: 2025-08-18 10:22:48
+ * Generated: 2025-08-19 01:59:01
+ * GFWList Last-Modified: 2025-08-18 13:50:12
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1351,6 +1351,7 @@ var rules = [
             "demo.unlock-music.dev",
             "democrats.org",
             "demosisto.hk",
+            "deno.dev",
             "depositphotos.com",
             "desc.se",
             "desipro.de",
@@ -1419,6 +1420,7 @@ var rules = [
             "doc.new",
             "docker.com",
             "docker.io",
+            "docs.deno.com",
             "docs.new",
             "doctorvoice.org",
             "documentingreality.com",
@@ -1941,6 +1943,7 @@ var rules = [
             "furbo.org",
             "furhhdl.org",
             "furinkan.com",
+            "furrybar.com",
             "futurechinaforum.org",
             "futuremessage.org",
             "fux.com",
