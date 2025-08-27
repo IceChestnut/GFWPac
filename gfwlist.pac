@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-08-26 12:53:42
- * GFWList Last-Modified: 2025-08-26 07:00:23
+ * Generated: 2025-08-27 01:54:04
+ * GFWList Last-Modified: 2025-08-26 13:32:31
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3397,6 +3397,7 @@ var rules = [
             "mog.com",
             "mohu.club",
             "mohu.rocks",
+            "moj.gov.tw",
             "mojim.com",
             "mol.gov.tw",
             "molihua.org",
