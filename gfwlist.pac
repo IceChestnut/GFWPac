@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-10-06 12:51:16
- * GFWList Last-Modified: 2025-10-04 13:07:36
+ * Generated: 2025-10-07 01:49:06
+ * GFWList Last-Modified: 2025-10-06 15:36:12
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -5405,6 +5405,7 @@ var rules = [
             "vilanet.me",
             "vilavpn.com",
             "vimeo.com",
+            "vimeocdn.com",
             "vimperator.org",
             "vincnd.com",
             "vine.co",
