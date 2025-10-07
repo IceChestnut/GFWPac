@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-10-07 01:49:06
- * GFWList Last-Modified: 2025-10-06 15:36:12
+ * Generated: 2025-10-07 12:51:00
+ * GFWList Last-Modified: 2025-10-07 08:08:01
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -4563,6 +4563,7 @@ var rules = [
             "solarsystem.nasa.gov",
             "solidaritetibet.org",
             "solidfiles.com",
+            "solscan.io",
             "solv.finance",
             "somee.com",
             "songjianjun.com",
