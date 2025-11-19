@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-11-18 12:53:29
- * GFWList Last-Modified: 2025-11-17 09:45:35
+ * Generated: 2025-11-19 01:58:36
+ * GFWList Last-Modified: 2025-11-18 15:18:01
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -329,6 +329,7 @@ var rules = [
             "agoogleaday.com",
             "agro.hk",
             "ai.binwang.me",
+            "ai.dev",
             "aiosearch.com",
             "aiph.net",
             "airasia.com",
