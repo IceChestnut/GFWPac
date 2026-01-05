@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-01-04 12:52:53
- * GFWList Last-Modified: 2026-01-02 09:38:24
+ * Generated: 2026-01-05 02:26:13
+ * GFWList Last-Modified: 2026-01-05 02:04:33
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1338,6 +1338,7 @@ var rules = [
             "dawangidc.com",
             "daxa.cn",
             "daylife.com",
+            "dazn.com",
             "db.tt",
             "dbgjd.com",
             "dcard.tw",
@@ -3838,6 +3839,8 @@ var rules = [
             "onthehunt.com",
             "ontrac.com",
             "oojj.de",
+            "ooni.io",
+            "ooni.org",
             "open.com.hk",
             "open.firstory.me",
             "openai.com",
@@ -5825,6 +5828,7 @@ var rules = [
             "xbookcn.com",
             "xbtce.com",
             "xcafe.in",
+            "xcancel.com",
             "xcity.jp",
             "xcritic.com",
             "xerotica.com",
