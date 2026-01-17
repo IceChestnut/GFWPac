@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-01-17 02:05:10
- * GFWList Last-Modified: 2026-01-09 09:18:34
+ * Generated: 2026-01-17 12:52:27
+ * GFWList Last-Modified: 2026-01-17 09:28:54
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -342,6 +342,7 @@ var rules = [
             "aiweiwei.com",
             "aiweiweiblog.com",
             "akademiye.org",
+            "akamai.tvb.com",
             "akamaihd.net",
             "akiba-online.com",
             "akiba-web.com",
@@ -415,7 +416,10 @@ var rules = [
             "angularjs.org",
             "animecrazy.net",
             "aniscartujo.com",
+            "annas-archive.in",
+            "annas-archive.li",
             "annas-archive.org",
+            "annas-archive.pm",
             "annas-archive.se",
             "annatam.com",
             "anobii.com",
@@ -1860,7 +1864,6 @@ var rules = [
             "forum.mymaji.com",
             "forum.palmislife.com",
             "forum.slime.com.tw",
-            "forum.tvb.com",
             "forum.xinbao.de",
             "forum4hk.com",
             "fountmedia.io",
@@ -3549,6 +3552,7 @@ var rules = [
             "myspacecdn.com",
             "mytalkbox.com",
             "mytizi.com",
+            "mytvsuper.com",
             "mywife.cc",
             "mywww.biz",
             "myz.info",
@@ -5214,6 +5218,7 @@ var rules = [
             "tv.com",
             "tv.jtbc.joins.com",
             "tvants.com",
+            "tvbanywhere.com",
             "tvboxnow.com",
             "tvider.com",
             "tvmost.com.hk",
