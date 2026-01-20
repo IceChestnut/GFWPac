@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-01-20 02:11:33
- * GFWList Last-Modified: 2026-01-17 09:28:54
+ * Generated: 2026-01-20 13:04:02
+ * GFWList Last-Modified: 2026-01-20 12:11:50
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -5640,6 +5640,7 @@ var rules = [
             "wefong.com",
             "wego.here.com",
             "weiboleak.com",
+            "weights.com",
             "weihuo.org",
             "weijingsheng.org",
             "weiming.info",
@@ -5961,6 +5962,7 @@ var rules = [
             "youdontcare.com",
             "youjizz.com",
             "youmaker.com",
+            "youmind.com",
             "youngpornvideos.com",
             "youngspiration.hk",
             "youpai.org",
