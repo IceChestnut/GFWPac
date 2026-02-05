@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-02-05 02:40:11
- * GFWList Last-Modified: 2026-02-04 09:09:47
+ * Generated: 2026-02-05 13:16:47
+ * GFWList Last-Modified: 2026-02-05 10:25:56
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2418,6 +2418,7 @@ var rules = [
             "greenvpn.org",
             "grindr.com",
             "grok.com",
+            "grokipedia.com",
             "ground.news",
             "gs-discuss.com",
             "gsearch.media",
