@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-02-15 02:51:23
- * GFWList Last-Modified: 2026-02-15 02:29:54
+ * Generated: 2026-02-15 13:05:07
+ * GFWList Last-Modified: 2026-02-15 10:21:38
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3192,6 +3192,7 @@ var rules = [
             "sowers.org.hk",
             "soylentnews.org",
             "spaces.hightail.com",
+            "spacex.com",
             "spankbang.com",
             "sparkpool.com",
             "spatial.io",
