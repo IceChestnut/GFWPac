@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-04-16 03:31:07
- * GFWList Last-Modified: 2026-04-14 10:07:21
+ * Generated: 2026-04-16 14:02:09
+ * GFWList Last-Modified: 2026-04-16 10:19:54
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -344,6 +344,7 @@ var rules = [
             "avg.com",
             "avgle.com",
             "avidemux.org",
+            "avistaz.to",
             "avmo.pw",
             "avmoo.pw",
             "avoision.com",
