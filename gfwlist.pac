@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-04-22 03:25:53
- * GFWList Last-Modified: 2026-04-16 10:19:54
+ * Generated: 2026-04-22 13:58:28
+ * GFWList Last-Modified: 2026-04-22 12:34:44
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -277,6 +277,7 @@ var rules = [
             "apkpure.net",
             "app.box.com",
             "app.cloudcone.com",
+            "app.element.io",
             "app.smartmailcloud.com",
             "appadvice.com",
             "appbrain.com",
@@ -317,6 +318,7 @@ var rules = [
             "asianfanfics.com",
             "asiansexdiary.com",
             "asiaone.com",
+            "asiasociety.org",
             "ask.com",
             "askstudent.com",
             "askynz.net",
@@ -408,6 +410,7 @@ var rules = [
             "beijing2022.art",
             "beijingspring.com",
             "bell.wiki",
+            "bellingcat.com",
             "berlinerbericht.de",
             "berlintwitterwall.com",
             "bestvpn.com",
@@ -734,7 +737,6 @@ var rules = [
             "chromecast.com",
             "chromeexperiments.com",
             "chromestatus.com",
-            "chromium.org",
             "ci-en.jp",
             "cia.gov",
             "cici.com",
@@ -2001,6 +2003,7 @@ var rules = [
             "ismaelan.com",
             "ismprofessional.net",
             "israbox.com",
+            "issues.chromium.org",
             "issuu.com",
             "isupportuyghurs.org",
             "italiatibet.org",
@@ -2142,6 +2145,7 @@ var rules = [
             "lamayeshe.com",
             "lamnia.co.uk",
             "landofhope.tv",
+            "lantern.io",
             "laogai.org",
             "laogairesearch.org",
             "laqingdan.net",
@@ -2923,6 +2927,7 @@ var rules = [
             "raw.githack.com",
             "rawgit.com",
             "rawgithub.com",
+            "rawstory.com",
             "rcam.target.com",
             "rcinet.ca",
             "rd.com",
@@ -2934,6 +2939,7 @@ var rules = [
             "realcourage.org",
             "realitykings.com",
             "reason.com",
+            "recordedfuture.com",
             "recoveryversion.com.tw",
             "red-lang.org",
             "redbubble.com",
@@ -2969,6 +2975,7 @@ var rules = [
             "rixcloud.us",
             "rlwlw.com",
             "rmbl.ws",
+            "roblox.com",
             "robustnessiskey.com",
             "rocket-inc.net",
             "rocket.chat",
@@ -3180,7 +3187,6 @@ var rules = [
             "southnews.com.tw",
             "southpark.cc.com",
             "sowers.org.hk",
-            "soylentnews.org",
             "spaces.hightail.com",
             "spacex.com",
             "spankbang.com",
@@ -3392,6 +3398,7 @@ var rules = [
             "thewgo.org",
             "thewirechina.com",
             "theync.com",
+            "thinkchina.sg",
             "thinkgeek.com",
             "thinkingtaiwan.com",
             "thinkwithgoogle.com",
