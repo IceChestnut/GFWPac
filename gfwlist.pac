@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-04-28 14:29:16
- * GFWList Last-Modified: 2026-04-24 07:27:37
+ * Generated: 2026-04-29 03:44:54
+ * GFWList Last-Modified: 2026-04-28 14:37:01
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3677,6 +3677,7 @@ var rules = [
             "upmedia.mg",
             "upornia.com",
             "uproxy.org",
+            "upsangel.com",
             "uptodown.com",
             "uraban.me",
             "urbandictionary.com",
