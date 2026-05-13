@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-05-13 03:58:18
- * GFWList Last-Modified: 2026-05-10 12:33:54
+ * Generated: 2026-05-13 14:48:30
+ * GFWList Last-Modified: 2026-05-13 10:51:27
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -731,6 +731,7 @@ var rules = [
             "chingcheong.com",
             "chinman.net",
             "chobit.cc",
+            "chonglangtv.org",
             "chrdnet.com",
             "christianfreedom.org",
             "christianstudy.com",
