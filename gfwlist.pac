@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-05-25 04:24:12
- * GFWList Last-Modified: 2026-05-22 12:17:45
+ * Generated: 2026-05-25 15:20:31
+ * GFWList Last-Modified: 2026-05-25 04:46:31
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2434,6 +2434,7 @@ var rules = [
             "motherless.com",
             "movements.org",
             "moviefap.com",
+            "mozilla.ai",
             "mpettis.com",
             "mpfinance.com",
             "mpinews.com",
