@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-08-02 03:32:11
- * GFWList Last-Modified: 2026-08-01 03:31:51
+ * Generated: 2026-08-02 13:41:03
+ * GFWList Last-Modified: 2026-08-02 05:08:53
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -679,6 +679,7 @@ var rules = [
             "centerforhumanreprod.com",
             "centralnation.com",
             "centurys.net",
+            "cerebras.ai",
             "certificate-transparency.org",
             "certificate.revocationcheck.com",
             "cfr.org",
