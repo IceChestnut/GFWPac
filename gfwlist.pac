@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-08-02 13:41:03
- * GFWList Last-Modified: 2026-08-02 05:08:53
+ * Generated: 2026-08-03 03:34:22
+ * GFWList Last-Modified: 2026-08-02 13:51:52
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -760,6 +760,7 @@ var rules = [
             "chromecast.com",
             "chromeexperiments.com",
             "chromestatus.com",
+            "cht.com.tw",
             "ci-en.jp",
             "cia.gov",
             "cici.com",
@@ -2512,7 +2513,6 @@ var rules = [
             "motherless.com",
             "movements.org",
             "moviefap.com",
-            "mozilla.ai",
             "mpettis.com",
             "mpfinance.com",
             "mpinews.com",
@@ -2981,7 +2981,6 @@ var rules = [
             "pullfolio.co",
             "pure18.com",
             "pureconcepts.net",
-            "puredns.org",
             "pureinsight.org",
             "purepdf.com",
             "purevpn.com",
@@ -3026,7 +3025,6 @@ var rules = [
             "radio.garden",
             "radioaustralia.net.au",
             "radiohilight.net",
-            "radiojar.com",
             "radioline.co",
             "radiovaticana.org",
             "radiovncr.com",
@@ -3139,7 +3137,6 @@ var rules = [
             "safechat.com",
             "safeguarddefenders.com",
             "safervpn.com",
-            "sagernet.org",
             "saintyculture.com",
             "sakuralive.com",
             "salvation.org.hk",
@@ -4132,7 +4129,6 @@ var rules = [
             "www.antd.org",
             "www.aolnews.com",
             "www.bing.com",
-            "www.clashverge.dev",
             "www.cmoinc.org",
             "www.dmm.com",
             "www.eastturkistan.net",
