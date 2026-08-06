@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-08-06 03:15:54
- * GFWList Last-Modified: 2026-08-02 13:51:52
+ * Generated: 2026-08-06 14:25:48
+ * GFWList Last-Modified: 2026-08-06 08:35:22
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -349,7 +349,6 @@ var rules = [
             "atnext.com",
             "auctions.yahoo.co.jp",
             "audacy.com",
-            "auntology.fandom.com",
             "autodraw.com",
             "av.movie",
             "av01.tv",
@@ -1198,6 +1197,7 @@ var rules = [
             "falunhr.org",
             "famunion.com",
             "fanbox.cc",
+            "fandom.com",
             "fangeqiang.com",
             "fanglizhi.info",
             "fangong.org",
@@ -1885,7 +1885,6 @@ var rules = [
             "home.saxo",
             "homedepot.com",
             "homeservershow.com",
-            "hongkong.fandom.com",
             "hongkongfp.com",
             "hongzhi.li",
             "honven.xyz",
