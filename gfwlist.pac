@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-08-09 13:02:37
- * GFWList Last-Modified: 2026-08-09 08:46:54
+ * Generated: 2026-08-10 02:17:19
+ * GFWList Last-Modified: 2026-08-09 12:59:49
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1138,6 +1138,7 @@ var rules = [
             "eromangadouzin.com",
             "eromon.net",
             "esg.t91y.com",
+            "esim.redteago.com",
             "eslite.com",
             "esurance.com",
             "etherdelta.com",
