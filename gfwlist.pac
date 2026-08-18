@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-08-18 01:36:54
- * GFWList Last-Modified: 2026-08-17 08:21:55
+ * Generated: 2026-08-18 12:56:36
+ * GFWList Last-Modified: 2026-08-18 11:57:04
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3135,6 +3135,7 @@ var rules = [
             "s-cute.com",
             "s.yimg.com",
             "s3-ap-northeast-1.amazonaws.com",
+            "s3.dualstack.us-west-2.amazonaws.com",
             "sacks.com",
             "sacom.hk",
             "sadistic-v.com",
@@ -4079,6 +4080,7 @@ var rules = [
             "willw.net",
             "wilsoncenter.org",
             "windscribe.com",
+            "windy.com",
             "wingamestore.com",
             "wingy.site",
             "wionews.com",
