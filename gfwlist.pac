@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-08-23 01:45:53
- * GFWList Last-Modified: 2026-08-22 06:17:41
+ * Generated: 2026-08-23 12:51:23
+ * GFWList Last-Modified: 2026-08-23 06:47:59
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -277,6 +277,7 @@ var rules = [
             "api.palworldgame.com",
             "api.pureapk.com",
             "api.recaptcha.net",
+            "api.shuaiapi.com",
             "api.steampowered.com",
             "api5.futunn.com",
             "apiary.io",
@@ -4178,6 +4179,7 @@ var rules = [
             "x.com",
             "x.company",
             "x3guide.com",
+            "x86.fr",
             "xbabe.com",
             "xbookcn.com",
             "xbtce.com",
