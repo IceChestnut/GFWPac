@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-08-30 04:55:30
- * GFWList Last-Modified: 2026-08-28 03:00:43
+ * Generated: 2026-08-30 16:29:10
+ * GFWList Last-Modified: 2026-08-30 14:57:02
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1444,6 +1444,7 @@ var rules = [
             "getlantern.org",
             "getmalus.com",
             "getmdl.io",
+            "getmonero.org",
             "getoutline.org",
             "getsession.org",
             "getsync.com",
@@ -2637,6 +2638,7 @@ var rules = [
             "nhentai.net",
             "nic.cz.cc",
             "nic.gov",
+            "nicoseiga.jp",
             "nicovideo.jp",
             "nightswatch.top",
             "nikke-en.com",
