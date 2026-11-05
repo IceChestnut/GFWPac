@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-11-05 06:07:23
- * GFWList Last-Modified: 2026-11-03 11:32:08
+ * Generated: 2026-11-05 19:46:20
+ * GFWList Last-Modified: 2026-11-05 06:09:18
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2423,7 +2423,6 @@ var rules = [
             "matters.town",
             "matthewdgreen.wordpress.com",
             "mattwilcox.net",
-            "maven.neoforged.net",
             "mcadforums.com",
             "mcaf.ee",
             "mceindex.com",
@@ -2632,6 +2631,7 @@ var rules = [
             "nekoslovakia.net",
             "neo-miracle.com",
             "neodb.social",
+            "neoforged.net",
             "neowin.net",
             "nephobox.com",
             "netalert.me",
